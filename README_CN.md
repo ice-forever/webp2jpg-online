@@ -20,8 +20,8 @@
 
 
 ## 在线地址
-[图片转换](https://imagestool.com/webp2jpg-online/) 
-| [图片拼接](https://imagestool.com/webp2jpg-online/splicing.html)
+[图片转换](https://imagestool.com/zh_CN/webp2jpg-online/) 
+| [图片拼接](https://imagestool.com/webp2jpg-online/splicing.html#/splicing)
 
 <h2>
     <img width="20" src="./doc/images/1.png" />
